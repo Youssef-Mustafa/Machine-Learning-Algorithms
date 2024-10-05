@@ -79,9 +79,6 @@ More algorithms such as **Logistic Regression**, **Decision Trees**, and **Suppo
 │   └── other_algorithms.py     # Future algorithms
 ├── /data                     # Datasets used in the project
 │   └── sample_dataset.csv
-├── /tests                    # Unit tests for the algorithms
-│   ├── test_linear_regression.py
-│   └── other_algorithm_tests.py
 ├── README.md                 # This file
 ├── requirements.txt          # List of dependencies
 ├── LICENSE                   # License information
@@ -125,8 +122,3 @@ Here are some helpful resources to dive deeper into machine learning concepts:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Notes
-
-- Update the image links (`![Machine Learning](https://www.example.com/ml_cover_image.png)` and `![Linear Regression Plot](https://www.example.com/linear_regression_plot.png)`) with actual links to the images you'd like to display in your README.
-- As you add more algorithms, expand the **Algorithms** section with links to new notebooks and Python files.
