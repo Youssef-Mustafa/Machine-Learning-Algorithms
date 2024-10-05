@@ -2,7 +2,7 @@
 
 # Machine Learning Algorithms Repository
 
-![Machine Learning](https://www.example.com/ml_cover_image.png) <!-- Replace with an actual link to your image -->
+![Machine Learning](https://www.wordstream.com/wp-content/uploads/2021/07/machine-learning1-1.png)
 
 ## Introduction
 This repository serves as a comprehensive resource for understanding and implementing various machine learning algorithms from scratch. Each algorithm is implemented in Python, and detailed explanations are provided through Jupyter notebooks. 
@@ -59,9 +59,6 @@ The first algorithm implemented in this repository is **Linear Regression**, a s
 
 - **Gradient Descent:** Used to optimize the weights and bias by minimizing the cost function.
 - **Mean Squared Error (MSE):** A loss function used to evaluate the performance of the model.
-
-**Example Visualization:**
-![Linear Regression Plot](https://www.example.com/linear_regression_plot.png) <!-- Replace with your actual plot image -->
 
 ### 2. Other Algorithms
 
