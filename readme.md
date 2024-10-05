@@ -1,4 +1,3 @@
-
 ---
 
 # Machine Learning Algorithms Repository
@@ -23,15 +22,18 @@ The goal is to offer a clear and beginner-friendly way to grasp the core ideas b
 ---
 
 ## Installation
+
 To get started with the repository, follow the steps below to set up your environment:
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/your-username/ml-algorithms-repo.git
    cd ml-algorithms-repo
    ```
 
 2. Create a virtual environment (optional but recommended):
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -47,12 +49,14 @@ To get started with the repository, follow the steps below to set up your enviro
 ## Algorithms
 
 ### 1. Linear Regression
+
 The first algorithm implemented in this repository is **Linear Regression**, a supervised learning algorithm used for predicting continuous values. You can find the full implementation in the following files:
 
 - **Source Code:** [`linear_regression.py`](src/linear_regression.py)
 - **Jupyter Notebook:** [`linear_regression.ipynb`](notebooks/linear_regression.ipynb)
 
 #### Key Concepts:
+
 - **Gradient Descent:** Used to optimize the weights and bias by minimizing the cost function.
 - **Mean Squared Error (MSE):** A loss function used to evaluate the performance of the model.
 
@@ -60,11 +64,13 @@ The first algorithm implemented in this repository is **Linear Regression**, a s
 ![Linear Regression Plot](https://www.example.com/linear_regression_plot.png) <!-- Replace with your actual plot image -->
 
 ### 2. Other Algorithms
+
 More algorithms such as **Logistic Regression**, **Decision Trees**, and **Support Vector Machines** will be added as the repository grows.
 
 ---
 
 ## Repository Structure
+
 ```bash
 /ml-algorithms-repo
 ├── /notebooks                # Jupyter notebooks for each algorithm
@@ -88,10 +94,12 @@ More algorithms such as **Logistic Regression**, **Decision Trees**, and **Suppo
 ---
 
 ## Usage
+
 1. **Run Notebooks:**
    Open any Jupyter notebook from the `notebooks` folder to see detailed explanations and interactive code for the respective algorithm.
 
    To start Jupyter notebooks, use the following command:
+
    ```bash
    jupyter notebook
    ```
@@ -110,17 +118,18 @@ Here are some helpful resources to dive deeper into machine learning concepts:
 
 - [Andrew Ng's Machine Learning Course (Coursera)](https://www.coursera.org/learn/machine-learning)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (O'Reilly)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Official NumPy Documentation](https://numpy.org/doc/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ---
 
 ## License
+
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ### Notes
+
 - Update the image links (`![Machine Learning](https://www.example.com/ml_cover_image.png)` and `![Linear Regression Plot](https://www.example.com/linear_regression_plot.png)`) with actual links to the images you'd like to display in your README.
 - As you add more algorithms, expand the **Algorithms** section with links to new notebooks and Python files.
